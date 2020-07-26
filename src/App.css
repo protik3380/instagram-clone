@@ -15,3 +15,7 @@
   height: 50px;
   width: 100px;
 }
+.app__signup {
+  display: flex;
+  flex-direction: column;
+}
